@@ -47,7 +47,7 @@ import org.mybatis.generator.internal.util.StringUtility;
  * @author Jeff Butler
  */
 public class CachePlugin extends PluginAdapter {
-	//testdeploy......................
+	//中文提交
     public enum CacheProperty {
         EVICTION("cache_eviction", "eviction"), //$NON-NLS-1$ //$NON-NLS-2$
         FLUSH_INTERVAL("cache_flushInterval", "flushInterval"), //$NON-NLS-1$ //$NON-NLS-2$
